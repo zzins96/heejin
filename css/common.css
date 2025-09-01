@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'jamsil_thin';
+    src: url('../font/The\ Jamsil\ 1\ Thin.ttf');
+}
+@font-face {
+    font-family: 'jamsil_light';
+    src: url('../font/The\ Jamsil\ 2\ Light.ttf');
+}
+@font-face {
+    font-family: 'jamsil_regular';
+    src: url('../font/The\ Jamsil\ 3\ Regular.ttf');
+}
+@font-face {
+    font-family: 'jamsil_medium';
+    src: url('../font/The\ Jamsil\ 4\ Medium.ttf');
+}
+@font-face {
+    font-family: 'jamsil_bold';
+    src: url('../font/The\ Jamsil\ 5\ Bold.ttf');
+}
+@font-face {
+    font-family: 'jamsil_estrabold';
+    src: url('../font/The\ Jamsil\ 6\ ExtraBold.ttf');
+}

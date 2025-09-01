@@ -1,0 +1,214 @@
+<div class="section2-box section2-1">
+                <p class="section2-title">클론코딩<b>품절대란!!</b></p>
+                <div class="section2-flex">
+                    <div class="section2-left" data-aos="fade-right" data-aos-delay="300"></div>
+                    <div class="section2-right" data-aos="fade-left" data-aos-delay="600">
+                        <b>[개인] 포스코 미래기술연구원</b>
+                        <div class="section2-right-text">
+                            <p>원산지 : 대한민국</p>
+                            <p>생산일자 : 2025년 07월 15일</p>
+                            <p>제조사 : HEE JIN</p>
+                            <p>유통기한 : ∞ (무한 업데이트 가능)</p>
+                            <p>품질보증 : 100% 직접 제작</p>
+                            <span class="red">주말 공휴일 배송 가능!</span>
+                        </div>
+                        <div class="section2-right-button">
+                            <button><a href="https://www.posconexthub.com:4454/poscoinc/future/index.jsp"
+                                    target="_blank">찜(원본)</a></button>
+                            <button><a href="#">구매하기(클론)</a></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section2-box section2-2">
+                <div class="section2-left" data-aos="fade-right" data-aos-delay="300"></div>
+                <div class="section2-right" data-aos="fade-left" data-aos-delay="600">
+                    <p class="section2-title">클론코딩<b>품절대란!!</b></p>
+                    <div class="section2-flex">
+                        <div class="section2-left" data-aos="fade-right" data-aos-delay="300"></div>
+                        <div class="section2-right" data-aos="fade-left" data-aos-delay="600">
+                            <b>[개인] HANWHA REIT</b>
+                            <div class="section2-right-text">
+                                <p>원산지 : 대한민국</p>
+                                <p>생산일자 : 2025년 07월 30일</p>
+                                <p>제조사 : HEE JIN</p>
+                                <p>유통기한 : ∞ (무한 업데이트 가능)</p>
+                                <p>품질보증 : 100% 직접 제작</p>
+                                <span class="red">주말 공휴일 배송 가능!</span>
+                            </div>
+                            <div class="section2-right-button">
+                                <button><a href="https://www.posconexthub.com:4454/poscoinc/future/index.jsp"
+                                        target="_blank">찜(원본)</a></button>
+                                <button><a href="#">구매하기(클론)</a></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section2-box section2-3">
+                <div class="section2-left" data-aos="fade-right" data-aos-delay="300"></div>
+                <div class="section2-right" data-aos="fade-left" data-aos-delay="600">
+                    <p class="section2-title">클론코딩<b>품절대란!!</b></p>
+                    <div class="section2-flex">
+                        <div class="section2-left" data-aos="fade-right" data-aos-delay="300"></div>
+                        <div class="section2-right" data-aos="fade-left" data-aos-delay="600">
+                            <b>[개인] U BASE</b>
+                            <div class="section2-right-text">
+                                <p>원산지 : 대한민국</p>
+                                <p>생산일자 : 2025년 08월 8일</p>
+                                <p>제조사 : HEE JIN</p>
+                                <p>유통기한 : ∞ (무한 업데이트 가능)</p>
+                                <p>품질보증 : 100% 직접 제작</p>
+                                <span class="red">주말 공휴일 배송 가능!</span>
+                            </div>
+                            <div class="section2-right-button">
+                                <button><a href="https://www.posconexthub.com:4454/poscoinc/future/index.jsp"
+                                        target="_blank">찜(원본)</a></button>
+                                <button><a href="#">구매하기(클론)</a></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section2-box section2-4">
+                <div class="section2-left" data-aos="fade-right" data-aos-delay="300"></div>
+                <div class="section2-right" data-aos="fade-left" data-aos-delay="600">
+                    <p class="section2-title">클론코딩<b>품절대란!!</b></p>
+                    <div class="section2-flex">
+                        <div class="section2-left" data-aos="fade-right" data-aos-delay="300"></div>
+                        <div class="section2-right" data-aos="fade-left" data-aos-delay="600">
+                            <b>[팀 클론] ALTOOLS</b>
+                            <div class="section2-right-text">
+                                <p>원산지 : 대한민국</p>
+                                <p>생산일자 : 2025년 08월 12일</p>
+                                <p>제조사 : HEE JIN</p>
+                                <p>유통기한 : ∞ (무한 업데이트 가능)</p>
+                                <p>품질보증 : 100% 직접 제작(기여도 50%)</p>
+                                <span class="red">주말 공휴일 배송 가능!</span>
+                            </div>
+                            <div class="section2-right-button">
+                                <button><a href="https://www.posconexthub.com:4454/poscoinc/future/index.jsp"
+                                        target="_blank">찜(원본)</a></button>
+                                <button><a href="#">구매하기(클론)</a></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+.section2 .section2-1 {
+    background: linear-gradient(to right, #C3D8F5, #C7CDE7, #B5B1EB);
+}
+.section2 .section2-2 {
+    background: linear-gradient(to right, #F29B4C, #F6C28B, #ED7100);
+}
+.section2 .section2-3 {
+    background: linear-gradient(to right, #00B2B1, #0893AC, #017DA2);
+}
+.section2 .section2-4 {
+    background: linear-gradient(to right, #FE8A87, #F454D5, #9F4DF7);
+}
+
+.section2-box .section2-title {
+    font-family: 'jamsil_medium';
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.section2-box .section2-title>b {
+    font-size: 3.75rem;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 2px red;
+    text-shadow: 0 0 5px red,
+        0 0 10px red,
+        0 0 15px red;
+    margin-left: 2rem;
+}
+
+.section2-flex {
+    padding-top: 7rem;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8rem;
+    margin: 0 auto;
+}
+
+.section2-1 .section2-flex .section2-left {
+    background: url('../img/0821\ 포스코.png')no-repeat center/contain;
+    width: 90%;
+    height: 50vh;
+}
+
+.section2-2 .section2-flex .section2-left {
+    background: url('../img/0821\ 한화.png')no-repeat center/contain;
+    width: 90%;
+    height: 50vh;
+}
+
+.section2-3 .section2-flex .section2-left {
+    background: url('../img/0821\ 유베이스.png')no-repeat center/contain;
+    width: 90%;
+    height: 50vh;
+}
+
+.section2-4 .section2-flex .section2-left {
+    background: url('../img/0821\ 알툴즈.png')no-repeat center/contain;
+    width: 90%;
+    height: 50vh;
+}
+
+.section2-flex .section2-right {
+    width: 40%;
+    min-height: 500px;
+    background-color: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(10px);
+    border-radius: 30px;
+    padding: 4rem 2rem;
+    text-align: center;
+}
+
+.section2-right>b {
+    font-family: 'jamsil_regular';
+    font-size: 1.5rem;
+}
+
+.section2-right-text {
+    font-family: 'jamsil_light';
+    margin-top: 2rem;
+    line-height: 2.5;
+    font-size: 1.2rem;
+}
+
+.section2-right-text .red {
+    font-family: 'jamsil_light';
+    font-size: 1rem;
+}
+
+.section2-right-button {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.section2-right-button>button {
+    width: 35%;
+    padding: .5rem;
+    border: 1px solid #9c9c9c;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 10px;
+}
+
+.section2-right-button>button:hover {
+    background-color: #fff;
+}
+
+.section2-right-button>button>a {
+    color: #9c9c9c;
+}
