@@ -766,6 +766,20 @@
         font-size: 4rem;
     }
 
+    .section1-animation-right>p {
+        animation: textslide 13s infinite linear;
+    }
+
+    @keyframes textslide {
+        0% {
+            transform: translateX(100%);
+        }
+
+        100% {
+            transform: translateX(-400%);
+        }
+    }
+
     .section2-title span {
         margin-top: 2rem;
         display: block;
@@ -868,7 +882,7 @@
     }
 
     .section1-responsive .swiper-button-next {
-        top:55%;
+        top: 55%;
     }
 
     .section1-responsive .swiper-button-prev {
