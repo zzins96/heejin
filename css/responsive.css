@@ -203,19 +203,23 @@
         background-color: #dad9d9;
     }
 
+    .section1-responsive-swiper {
+        position: relative;
+    }
+
     .section1-responsive .swiper-button-next::after,
     .section1-responsive .swiper-button-prev::after {
         display: none;
     }
 
     .section1-responsive .swiper-button-next {
-        right: 2%;
-        top: 72%;
+        position: absolute;
+        right: -10%;
     }
 
     .section1-responsive .swiper-button-prev {
-        top: 72%;
-        left: 2%;
+        position: absolute;
+        left: -10%;
     }
 
     .mySwiper3>p {
@@ -864,11 +868,11 @@
     }
 
     .section1-responsive .swiper-button-next {
-        top: 66%;
+        top:55%;
     }
 
     .section1-responsive .swiper-button-prev {
-        top: 66%;
+        top: 55%;
     }
 
     .section1-animation-right>p {
