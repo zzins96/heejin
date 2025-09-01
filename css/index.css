@@ -23,13 +23,14 @@ ul {
     color: red;
 }
 
-
-
 h1 {
     font-size: 6rem;
     color: #e50914;
 }
 
+.swiper-button-next:after, .swiper-button-prev:after {
+    display: none;
+}
 .section1-responsive {
     display: none;
 }
