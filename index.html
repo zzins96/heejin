@@ -87,7 +87,7 @@
                                 <div class="section1-imgbox imgbox2">
                                     <div class="section1-imgbox-text">
                                         <p>전매 특허!</p>
-                                        <p>팀원들과의 협업으로 완성된<br>Web Design</p>
+                                        <p>팀협업으로 완성된<br>Web Design</p>
                                         <button>보러가기</button>
                                     </div>
                                 </div>
@@ -186,6 +186,12 @@
                             </a>
                         </div>
                     </div>
+                </div>
+                <div class="swiper-button-next">
+                    <img src="img/section1-next.png" alt="">
+                </div>
+                <div class="swiper-button-prev">
+                    <img src="img/section1-prev.png" alt="">
                 </div>
             </div>
             <div class="section1-name">
@@ -538,7 +544,7 @@
                                 <button>구매하기</button>
                             </div>
                         </div>
-                        <div class="swiper-slide"><img src="img/제이숲-샴푸_01 1.png" alt="">
+                        <div class="swiper-slide mobile-detail"><img src="img/제이숲-샴푸_01 1.png" alt="">
                             <div class="detail-text">
                                 <p>[상세페이지2]</p>
                                 <p>
@@ -547,7 +553,7 @@
                                 <button>구매하기</button>
                             </div>
                         </div>
-                        <div class="swiper-slide"><img src="img/볶이상점.png" alt="">
+                        <div class="swiper-slide mobile-detail"><img src="img/볶이상점.png" alt="">
                             <div class="detail-text">
                                 <p>카페 24</p>
                                 <p>
@@ -556,7 +562,7 @@
                                 <button>구매하기</button>
                             </div>
                         </div>
-                        <div class="swiper-slide"><img src="img/카드뉴스 1.png" alt="">
+                        <div class="swiper-slide mobile-detail"><img src="img/카드뉴스 1.png" alt="">
                             <div class="detail-text">
                                 <p>카드뉴스</p>
                                 <p>
@@ -637,6 +643,11 @@
                 el: ".swiper-pagination",
                 clickable: true,
             },
+            loop:true,
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
             breakpoints: {
                 325: {
                     slidesPerView: 1
@@ -667,6 +678,7 @@
             keyboard: {
                 enabled: true,
             },
+            loop:true,
             pagination: {
                 el: ".swiper-pagination",
                 clickable: true,
